@@ -19,7 +19,7 @@ Control a paddle to keep the bouncing ball in play. You have 3 lives. Score poin
 
 ## How to Run
 
-1. Ensure you have Go installed (version 1.18 or later recommended).
+1. Ensure you have Go installed (version 1.24 or later).
 2. Clone or download the repository.
 3. Open a shell in the folder of the project.
 4. Run `go run main.go` or `go build` then `./gogame`.
