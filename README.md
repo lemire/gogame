@@ -19,13 +19,10 @@ Control a paddle to keep the bouncing ball in play. You have 3 lives. Score poin
 
 ## How to Run
 
-1. Ensure you have Go installed.
+1. Ensure you have Go installed (version 1.18 or later recommended).
 2. Clone or download the repository.
-3. Run `go run main.go` or `go build` then `./gogame`.
+3. Run `go mod download` to download dependencies.
+4. Run `go run main.go` or `go build` then `./gogame`.
 
 The game window will open showing the start menu. Press Space to begin playing.
 
-## Dependencies
-
-- github.com/hajimehoshi/ebiten/v2
-- github.com/ebitengine/oto/v3
