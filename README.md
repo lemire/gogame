@@ -21,7 +21,7 @@ Control a paddle to keep the bouncing ball in play. You have 3 lives. Score poin
 
 1. Ensure you have Go installed (version 1.18 or later recommended).
 2. Clone or download the repository.
-3. Run `go mod download` to download dependencies.
+3. Open a shell in the folder of the project.
 4. Run `go run main.go` or `go build` then `./gogame`.
 
 The game window will open showing the start menu. Press Space to begin playing.
